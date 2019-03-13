@@ -18,6 +18,30 @@
 *.zip
 *.tar.gz
 *.rar
+#Project Files Of Idea
+.idea/
+*.iml
 
+#Output Folder
+target/
+
+#Log Folder
+logs/
+~/
+
+#Output Files
+*.jar
+*.class
+
+#Project Files Of Eclipse
+.settings/
+.classpath
+.project
+
+#Test
+/Test
+
+#Mac OS Cache File
+.DS_Store
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
